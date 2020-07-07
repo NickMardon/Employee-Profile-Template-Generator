@@ -2,9 +2,9 @@
 const Employee = require("./Employee");
 
 class Manager extends Employee {
-    constructor(name,id,email,num){
+    constructor(name,id,email,officeNumber){
         super(name,id,email);
-        this.officNumber = num;
+        this.officeNumber = officeNumber;
     }
 
     getName() {
@@ -23,7 +23,7 @@ class Manager extends Employee {
         return "Manager";
     }
     getOffic(){
-        return this.officNumber;
+        return this.officeNumber;
     }
 }
 
