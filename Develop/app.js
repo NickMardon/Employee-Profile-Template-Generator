@@ -41,7 +41,7 @@ function managerQuestions(){
             message: "What is your office number?"
         }
     ]).then(function(result){
-        const newManager = new Manager(result.name,result.id,result.email,result.github);
+        const newManager = new Manager(result.name,result.id,result.email,result.officeNumber);
         console.log(newManager);
         employeeArr.push(newManager);
         addEmployee();
