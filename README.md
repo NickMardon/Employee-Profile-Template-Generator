@@ -1,5 +1,8 @@
 # Employee-Profile-Template-Generator
 
+<img width="1680" alt="Screen Shot 2020-07-07 at 8 14 57 PM" src="https://user-images.githubusercontent.com/64296192/86871230-bb63f280-c08e-11ea-938b-7859b17d9481.png">
+
+
 # Unit 10 OOP Homework: Template Engine - Employee Summary
 
 One of the most important aspects of programming is writing code that is readable, reliable, and maintainable. Oftentimes, *how* we design our code is just as important as the code itself. In this homework assignment, your challenge is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. Since testing is a key piece in making code maintainable, you will also be ensuring that all unit tests pass.
