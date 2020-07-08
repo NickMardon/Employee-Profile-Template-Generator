@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+}
+
+h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #4884C8;
+    height: 15vh;
+}
+
+.employee-card {
+    width: 100%;
+    text-align: center;
+}
